@@ -51,3 +51,4 @@ https://stellar.expert/explorer/testnet/contract/XXXXXXXXXXXXXXXX
 2. Build contract:
    ```bash
    cargo build --target wasm32-unknown-unknown --release
+<img width="1852" height="946" alt="Screenshot 2026-03-20 151659" src="https://github.com/user-attachments/assets/0a053405-0fc8-4892-b241-9926b48d11cd" />
